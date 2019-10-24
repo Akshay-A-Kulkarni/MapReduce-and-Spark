@@ -1,0 +1,8 @@
+tc/RSJoinTriangleCount$COUNTER.class
+tc/TwoPathReducer.class
+tc/TriangleReducer.class
+tc/RSMappers.class
+tc/RSMappers$TriangleMapper1.class
+tc/RSMappers$TriangleMapper2.class
+tc/RSJoinTriangleCount.class
+tc/TwoPathMapper.class

@@ -1,0 +1,3 @@
+fc/FollowerCount.class
+fc/FollowerCount$FollowerMapper.class
+fc/FollowerCount$TotalFollowerReducer.class
